@@ -1,0 +1,20 @@
+Replace this with a list of your favorite things.
+1. HAPPY
+   1. EAT GOOD
+   2. SLEEPY GOOD
+   3. HAVE A GOOD TIME
+   4. STUDY GOOD
+2. PHOTO
+   1. GO TO MORE PLACE
+   2. HAVE MORE TIME 
+3. GO HOME
+
+* HAPPY
+   * EAT GOOD
+   * SLEEPY GOOD
+   * HAVE A GOOD TIME
+   * STUDY GOOD
+* PHOTO
+   * GO TO MORE PLACE
+   * HAVE MORE TIME 
+* GO HOME
